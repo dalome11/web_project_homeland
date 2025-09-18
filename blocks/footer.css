@@ -1,0 +1,11 @@
+.footer {
+  max-width: 194px;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
+
+.footer__copyright {
+  font-size: 14px;
+  font-weight: 400;
+}
